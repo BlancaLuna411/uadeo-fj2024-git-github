@@ -1,3 +1,7 @@
 # uadeo-fj2024-git-github
 
-Blanca Flor Luna Liera
+Owner: Blanca Flor Luna Liera
+
+Collaborators:
+
+Rosario Anahi @RG0192
